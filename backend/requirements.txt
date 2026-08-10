@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pytest
+pytest-asyncio
+httpx
+pytest-cov
+python-dotenv
+groq
+google-search-results
+psycopg2-binary
+cohere
