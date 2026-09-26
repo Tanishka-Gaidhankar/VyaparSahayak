@@ -1,6 +1,6 @@
 # VyaaparSahayak
 
-AI-assisted business management and analytics platform for startups.
+VyaaparSahayak is an AI-assisted business management and analytics platform for startups and small businesses. It combines operational tracking (products, orders, production, dashboard metrics) with AI-guided risk analysis and growth recommendations, and the repo is split between a Python/FastAPI backend and a React + Vite frontend.
 
 ## Current Features
 
